@@ -1,6 +1,6 @@
 databases:
   - name: whatsfordinner
-    databaseName: whats-for-dinner
+    databaseName: whatsfordinner
     user: whatsfordinner
 
 services:
